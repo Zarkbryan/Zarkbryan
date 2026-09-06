@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 # Hi 👋, I'm Aloro Isaac Brian
-### Building trading bots, mobile apps, and whatever else breaks in interesting ways.
+### Building trading bots, Whatsapp bots, Telegram bots, mobile apps, and whatever else breaks in interesting ways.
 
 </div>
 
