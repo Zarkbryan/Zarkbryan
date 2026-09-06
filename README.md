@@ -16,15 +16,17 @@ You can click the Preview link to take a look at your changes.
 ```text
 zarkbryan@github
 -----------------
-OS: .......................... Windows, Android
+OS: .......................... Windows, Android, Linux, Ubuntu
 Uptime: ...................... CS Student, Gulu University
-Host: ........................ Group 2026-17 (Final Year Project)
+Host: ........................ blackhat
 Kernel: ...................... Independent Developer
 IDE: ......................... VS Code, Android Studio
 
 Languages.Programming: ....... Python, Dart, JavaScript, C
 Focus: ....................... Algo Trading Bots, Mobile & Web Apps
 Currently Building: .......... AgriConnect (Flutter + Supabase)
+                               Zark_pay
+                               Zarkbots
 
 — Contact
 WhatsApp: .................... wa.me/256762086532
@@ -49,11 +51,11 @@ GitHub: ...................... github.com/Zarkbryan
 
 ## About Me
 
-- 🎓 Computer Science student at **Gulu University**, currently working on a final-year mobile app project (**AgriConnect**) with my team, Group 2026-17
-- 🤖 In my own time, I build **algorithmic trading bots** for MetaTrader 5, plus various web and mobile apps
+- 🎓 That lazy dev who gets shii done before deadline
+- 🤖 In my own time, I build whatsapp bots, telegram bots, trading bots, and ahhh
 - 🛠️ Comfortable across the stack — from backend logic to mobile UIs
 - 📫 Reach me on WhatsApp or Telegram (**@zarkbryan**) — fastest way to get a response
-- ⚡ Fun fact: my GitHub handle is a nod to my trading bot project, **Zark Bots**
+- ⚡ Fun fact, not really a social
 
 <br>
 
