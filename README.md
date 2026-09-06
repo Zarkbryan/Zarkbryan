@@ -20,7 +20,7 @@ OS: .......................... Windows, Android, Linux, Ubuntu
 Uptime: ...................... CS Student, Gulu University
 Host: ........................ blackhat
 Kernel: ...................... Independent Developer
-IDE: ......................... VS Code, Android Studio
+IDE: ......................... VS Code, Android Studio, Terminal, Visual Studio, Notepad ++
 
 Languages.Programming: ....... Python, Dart, JavaScript, C
 Focus: ....................... Algo Trading Bots, Mobile & Web Apps
